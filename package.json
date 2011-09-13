@@ -1,0 +1,17 @@
+{ "name": "refmate"
+, "author" : "Thom Blake <thethomblake@gmail.com> (http://thomblake.com)"
+, "description" : "Simple reference management software"
+, "keywords" : [ "reference management" ]
+, "version" : "0.0.0-1"
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/thomblake/refmate.git"
+  }
+, "bugs" :
+  { "web" : "http://github.com/thomblake/refmate/issues"
+  }
+, "directories" :
+  { "bin" : "./bin"
+  , "lib" : "./lib"
+  }
+}
